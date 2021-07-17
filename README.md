@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swavy89
-- 👀 I’m interested in bsc source codes
+- 👀 I’m interested in source codes
 - 🌱 I’m new to coding
 - 💞️ I’m looking to collaborate with everyone
 
