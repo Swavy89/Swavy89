@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Swavy89
 - 👀 I’m interested in source codes
-- 🌱 I’m currently learning ...
+- 🌱 I’m new to coding
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me ...
 
 <!---
 Swavy89/Swavy89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
